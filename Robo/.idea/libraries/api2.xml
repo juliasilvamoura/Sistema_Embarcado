@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/api/IOIOLibPC-5.05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api/IOIOLibCore-5.05.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

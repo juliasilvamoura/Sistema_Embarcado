@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/lucas/Documentos/Faculdade/Sistemas Embarcados/App-IOIO0507/src/applications/HelloIOIO/build/intermediates/res/merged/debug/drawable/teclacima.png",
+        "source": "/home/lucas/Documentos/Faculdade/Sistemas Embarcados/App-IOIO0507/src/applications/HelloIOIO/src/main/res/drawable/teclacima.png"
+    },
+    {
+        "merged": "/home/lucas/Documentos/Faculdade/Sistemas Embarcados/App-IOIO0507/src/applications/HelloIOIO/build/intermediates/res/merged/debug/drawable/teclabaixo.png",
+        "source": "/home/lucas/Documentos/Faculdade/Sistemas Embarcados/App-IOIO0507/src/applications/HelloIOIO/src/main/res/drawable/teclabaixo.png"
+    },
+    {
+        "merged": "/home/lucas/Documentos/Faculdade/Sistemas Embarcados/App-IOIO0507/src/applications/HelloIOIO/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/lucas/Documentos/Faculdade/Sistemas Embarcados/App-IOIO0507/src/applications/HelloIOIO/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/lucas/Documentos/Faculdade/Sistemas Embarcados/App-IOIO0507/src/applications/HelloIOIO/build/intermediates/res/merged/debug/drawable/tecladireita.png",
+        "source": "/home/lucas/Documentos/Faculdade/Sistemas Embarcados/App-IOIO0507/src/applications/HelloIOIO/src/main/res/drawable/tecladireita.png"
+    },
+    {
+        "merged": "/home/lucas/Documentos/Faculdade/Sistemas Embarcados/App-IOIO0507/src/applications/HelloIOIO/build/intermediates/res/merged/debug/drawable/teclaesquerda.png",
+        "source": "/home/lucas/Documentos/Faculdade/Sistemas Embarcados/App-IOIO0507/src/applications/HelloIOIO/src/main/res/drawable/teclaesquerda.png"
+    }
+]

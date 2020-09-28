@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/HelloIOIOConsole-5.07-standalone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/HelloIOIOSwing-5.07-standalone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/HelloSequencer-5.07-standalone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

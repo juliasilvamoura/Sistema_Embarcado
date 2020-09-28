@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/IOIOLibCore-5.07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/IOIOLibPC-5.07.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

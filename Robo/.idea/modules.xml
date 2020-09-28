@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/applications/HelloIOIO/build/intermediates/exploded-aar/com.github.ytai.ioio/IOIOLibAndroidDevice/5.07/5.07.iml" filepath="$PROJECT_DIR$/src/applications/HelloIOIO/build/intermediates/exploded-aar/com.github.ytai.ioio/IOIOLibAndroidDevice/5.07/5.07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/applications/HelloIOIO/src/HelloIOIO.iml" filepath="$PROJECT_DIR$/src/applications/HelloIOIO/src/HelloIOIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/applications/pc/HelloIOIOConsole/HelloIOIOConsole.iml" filepath="$PROJECT_DIR$/src/applications/pc/HelloIOIOConsole/HelloIOIOConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/applications/HelloIOIOService/HelloIOIOService.iml" filepath="$PROJECT_DIR$/src/applications/HelloIOIOService/HelloIOIOService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/applications/pc/HelloIOIOSwing/HelloIOIOSwing.iml" filepath="$PROJECT_DIR$/src/applications/pc/HelloIOIOSwing/HelloIOIOSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/applications/pc/HelloSequencer/HelloSequencer.iml" filepath="$PROJECT_DIR$/src/applications/pc/HelloSequencer/HelloSequencer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOIO-OTG_Robo.iml" filepath="$PROJECT_DIR$/IOIO-OTG_Robo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/IOIOLibAndroid/IOIOLibAndroid.iml" filepath="$PROJECT_DIR$/src/IOIOLibAndroid/IOIOLibAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/IOIOLibAndroidAccessory/IOIOLibAndroidAccessory.iml" filepath="$PROJECT_DIR$/src/IOIOLibAndroidAccessory/IOIOLibAndroidAccessory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/IOIOLibAndroidBluetooth/IOIOLibAndroidBluetooth.iml" filepath="$PROJECT_DIR$/src/IOIOLibAndroidBluetooth/IOIOLibAndroidBluetooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/IOIOLibAndroidDevice/IOIOLibAndroidDevice.iml" filepath="$PROJECT_DIR$/src/IOIOLibAndroidDevice/IOIOLibAndroidDevice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/IOIOLibCore/IOIOLibCore.iml" filepath="$PROJECT_DIR$/src/IOIOLibCore/IOIOLibCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/IOIOLibPC/IOIOLibPC.iml" filepath="$PROJECT_DIR$/src/IOIOLibPC/IOIOLibPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/applications/IOIOSimpleApp/IOIOSimpleApp.iml" filepath="$PROJECT_DIR$/src/applications/IOIOSimpleApp/IOIOSimpleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/applications/HelloIOIO/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/src/applications/HelloIOIO/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/applications/HelloIOIO/build/intermediates/manifests/full/debug/debug.iml" filepath="$PROJECT_DIR$/src/applications/HelloIOIO/build/intermediates/manifests/full/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/applications/HelloIOIO/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/src/applications/HelloIOIO/build/generated/source/r/r.iml" />
+    </modules>
+  </component>
+</project>

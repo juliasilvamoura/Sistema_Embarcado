@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/applications/HelloIOIO/build/intermediates/pre-dexed/debug/com.github.ytai.ioio-IOIOLibAndroidAccessory-5.07_924f7fcbb628e917dabedb066c4290a23686a9b8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/applications/HelloIOIO/build/intermediates/pre-dexed/debug/com.github.ytai.ioio-IOIOLibAndroid-5.07_120b0ed4083635f4c615998d3f436196dd60c2f8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/applications/HelloIOIO/build/intermediates/pre-dexed/debug/com.github.ytai.ioio-IOIOLibAndroidBluetooth-5.07_887d9b10613057a156f6906eb5352df51c352cb7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/applications/HelloIOIO/build/intermediates/pre-dexed/debug/IOIOLibCore-5.07_04b7b18fecb2165d70599044737e6296b6f963c1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/applications/HelloIOIO/build/intermediates/pre-dexed/debug/com.github.ytai.ioio-IOIOLibAndroidDevice-5.07_b3d28690ddb7a424114d66c3cd8ff8aac8afc302.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/applications/HelloIOIO/build/intermediates/pre-dexed/debug/debug_d3573ef8e471a4c5f8a6424c9b18cf49d89ce439.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

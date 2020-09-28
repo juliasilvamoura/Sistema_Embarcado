@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+
+    <ImageButton
+        android:id="@+id/frente"
+        android:layout_width="70dp"
+        android:layout_height="66dp"
+        android:layout_x="166dp"
+        android:layout_y="210dp"
+        android:src="@drawable/teclacima" />
+
+    <ImageButton
+        android:id="@+id/tras"
+        android:layout_width="70dp"
+        android:layout_height="66dp"
+        android:layout_x="166dp"
+        android:layout_y="374dp"
+        android:src="@drawable/teclabaixo" />
+
+    <ImageButton
+        android:id="@+id/esquerda"
+        android:layout_width="66dp"
+        android:layout_height="70dp"
+        android:layout_x="71dp"
+        android:layout_y="295dp"
+        android:longClickable="false"
+        android:src="@drawable/teclaesquerda" />
+
+    <ImageButton
+        android:id="@+id/direita"
+        android:layout_width="66dp"
+        android:layout_height="70dp"
+        android:layout_x="258dp"
+        android:layout_y="295dp"
+        android:src="@drawable/tecladireita" />
+
+</AbsoluteLayout>
